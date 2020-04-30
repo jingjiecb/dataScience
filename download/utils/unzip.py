@@ -9,7 +9,7 @@ import zipfile
 import tempfile
 import os
 
-# 解压一个文件夹中的全部文件
+# 解压一个文件夹中的全部文件到指定目录
 def unzip_file(zip_src, dst_dir):
     r = zipfile.is_zipfile(zip_src)
     if r:
@@ -19,8 +19,7 @@ def unzip_file(zip_src, dst_dir):
     else:
         print('This is not zip')
 
-
-# 解压一个名为name的文件
+# 解压一个名为name的文件到指定目录
 def unzip_one(zip_src, dst_dir, name):
     r = zipfile.is_zipfile(zip_src)
     if r:
@@ -29,10 +28,22 @@ def unzip_one(zip_src, dst_dir, name):
     else:
         print('This is not zip')
 
+# 解压一个在压缩文件路径中为path的文件到同级目录
+def unzip(zip_src,path):
+    dir=os.path.dirname(zip_src)
+    r = zipfile.is_zipfile(zip_src)
+    if r:
+        fz = zipfile.ZipFile(zip_src, 'r')
+        fz.extract(path,dir)
+    else:
+        print('This is not zip')
+
+
 
 # 用来将一个回答记录中的答案解压出来
 # zip_src: zip包的相对路径
 # 会把main.py提取到相同路径
+# 相当于把zip包替换成一个同名文件
 def unzip_record(zip_src):
     py_file_name=zip_src[:-3]+'py'
     # 传入参数dir可以在当前目录下创建临时文件夹（当前目录即此py文件所在目录）
@@ -47,8 +58,21 @@ def unzip_record(zip_src):
         except Exception:
             print('\033[7;31mwarn || 解压失败！可能文件已经存在\033[0m')
 
+# 解压问题zip包中包含的有用信息：
+# readme.md 题目描述
+# .mooctest/testCases.json 测试用例
+# .mooctest/answer.py c++官方解答
+def unzip_question(zip_src):
+    dir=os.path.dirname(zip_src)
+    r = zipfile.is_zipfile(zip_src)
+    if r:
+        fz = zipfile.ZipFile(zip_src, 'r')
+        fz.extract('readme.md',dir)
+        fz.extract('.mooctest/testCases.json',dir)
+        fz.extract('.mooctest/answer.py',dir)
+    else:
+        print('This is not zip')
 
 if __name__=='__main__':
-    zip_src='295178_1584755725840.zip'
-    dst_dir='UnzipResult/'
-    unzip_record(zip_src,dst_dir)
+    zip_src='1581144899702.zip'
+    unzip_question(zip_src)

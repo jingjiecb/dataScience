@@ -10,5 +10,5 @@ __pycache__/
 ZipDownload/**
 
 # source
-sample.json
-test_data.json
+data/sample.json
+data/test_data.json

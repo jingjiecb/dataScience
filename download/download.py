@@ -9,6 +9,7 @@ import json
 import multiprocessing
 import requests
 import os
+import unzip
 
 # 请求头，防止访问被拒绝
 header2 = {
@@ -16,11 +17,6 @@ header2 = {
     'Connection': 'Keep-Alive',
     'Referer': "http://mooctest-site.oss-cn-shanghai.aliyuncs.com"
 }
-
-# 获得所有user对象
-def all_users(data):
-    for user in data.values():
-        yield user
 
 # 下载一个user的所有数据
 def download_user(user):
@@ -37,16 +33,20 @@ def download_user(user):
             os.mkdir('ZipDownload/' + userId +'/' +caseId)
         except Exception:
             print('\033[7;31mwarn || 创建题目文件夹失败，可能文件夹已经存在\033[0m')
-        baseFileName='ZipDownload/' + userId+'/'+case["case_id"] +'/'
-        fName = baseFileName+ "question.zip"
+        basedir='ZipDownload/' + userId+'/'+case["case_id"] +'/'
+        fName = basedir+ "question.zip"
         download_one(fName,case["case_zip"])
 
         records = case["upload_records"]
         for record in records:
             id=str(record["upload_id"])
             time=str(record["upload_time"])
-            fileName=baseFileName+id+'_'+time+'.zip'
+            fileName=basedir+id+'_'+time+'.zip'
             download_one(fileName,record["code_url"])
+
+            # 用压缩文件中真正有用的部分替换整个压缩文件
+            unzip.unzip_record(fileName)
+            os.remove(fileName)
 
 
 # 下载一个题目zip包
@@ -58,7 +58,6 @@ def download_one(fName,url):
             print("info || succeed to download ===> " + fName)
     except Exception:
         print('\033[7;31merror || '+fName+' 下载失败！\033[0m')
-
 
 
 
@@ -76,7 +75,7 @@ if __name__=="__main__":
 
     #多进程下载
     pool = multiprocessing.Pool(multiprocessing.cpu_count())
-    pool.map(download_user,all_users(data))
+    pool.map(download_user,data.values())
     pool.close()
     pool.join()
     print('****************************over****************************')

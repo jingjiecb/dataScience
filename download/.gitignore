@@ -1,0 +1,14 @@
+# IntelliJ files
+*.iml
+.idea/
+
+#Python cache
+
+__pycache__/
+
+# downloadResult
+ZipDownload/**
+
+# source
+sample.json
+test_data.json

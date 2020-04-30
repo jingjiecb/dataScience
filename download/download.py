@@ -10,7 +10,7 @@ import multiprocessing
 import requests
 import os
 
-# 请求头，防止IP被封
+# 请求头，防止访问被拒绝
 header2 = {
     'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240",
     'Connection': 'Keep-Alive',
@@ -31,14 +31,12 @@ def download_user(user):
         os.mkdir('ZipDownload/'+userId)
     except Exception:
         print('\033[7;31mwarn || 创建用户文件夹失败，可能文件夹已经存在\033[0m')
-        pass
     for case in cases:
         caseId=case["case_id"]
         try:
             os.mkdir('ZipDownload/' + userId +'/' +caseId)
         except Exception:
             print('\033[7;31mwarn || 创建题目文件夹失败，可能文件夹已经存在\033[0m')
-            pass
         baseFileName='ZipDownload/' + userId+'/'+case["case_id"] +'/'
         fName = baseFileName+ "question.zip"
         download_one(fName,case["case_zip"])

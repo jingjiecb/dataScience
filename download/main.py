@@ -9,6 +9,7 @@ import json
 import multiprocessing
 import requests
 import os
+import time
 from utils.unzip import unzip_record,unzip_question
 
 # 请求头，防止访问被拒绝
@@ -26,7 +27,7 @@ def download_user(user):
 
     # 创建用户目录
     try:
-        os.mkdir('ZipDownload/'+userId)
+        os.mkdir('CodeDownload/'+userId)
     except Exception:
         print('\033[7;31mwarn || 创建用户文件夹失败，可能文件夹已经存在\033[0m')
 
@@ -36,18 +37,12 @@ def download_user(user):
 
         # 创建题目目录
         try:
-            os.mkdir('ZipDownload/' + userId +'/' +caseId)
+            os.mkdir('CodeDownload/' + userId +'/' +caseId)
         except Exception:
             print('\033[7;31mwarn || 创建题目文件夹失败，可能文件夹已经存在\033[0m')
 
-        # 下载题目zip包
-        basedir='ZipDownload/' + userId+'/'+case["case_id"] +'/'
-        questionPath = basedir+ "question.zip"
-        download_one(questionPath,case["case_zip"])
-
-        # 解压并删除题目zip包
-        unzip_question(questionPath)
-        os.remove(questionPath)
+        # 题目目录
+        basedir='CodeDownload/' + userId+'/'+case["case_id"] +'/'
 
         # 遍历提交记录
         records = case["upload_records"]
@@ -70,7 +65,7 @@ def download_user_latest(user):
 
     # 创建用户目录
     try:
-        os.mkdir('ZipDownload/'+userId)
+        os.mkdir('CodeDownload/'+userId)
     except Exception:
         print('\033[7;31mwarn || 创建用户文件夹失败，可能文件夹已经存在\033[0m')
 
@@ -78,20 +73,8 @@ def download_user_latest(user):
     for case in cases:
         caseId=case["case_id"]
 
-        # 创建题目目录
-        # try:
-        #     os.mkdir('ZipDownload/' + userId +'/' +caseId)
-        # except Exception:
-        #     print('\033[7;31mwarn || 创建题目文件夹失败，可能文件夹已经存在\033[0m')
-
-        # 下载题目zip包
-        basedir='ZipDownload/' + userId+'/'
-        # questionPath = basedir+ "question.zip"
-        # download_one(questionPath,case["case_zip"])
-
-        # 解压并删除题目zip包
-        # unzip_question(questionPath)
-        # os.remove(questionPath)
+        # 储存地址
+        basedir='CodeDownload/' + userId+'/'
 
         # 下载最后一次提交记录
         record = case["upload_records"][-1]
@@ -119,7 +102,7 @@ def download_one(filePath,url):
 if __name__=="__main__":
     # 创建根目录
     try:
-        os.mkdir('ZipDownload')
+        os.mkdir('CodeDownload')
     except Exception:
         print('\033[7;31mwarn || 创建下载文件夹失败，可能文件夹已经存在\033[0m')
 
@@ -127,6 +110,7 @@ if __name__=="__main__":
     jFile = open('data/sample.json', encoding='utf-8')
     content = jFile.read()
     data = json.loads(content)
+    dataList=list(data.values())
 
     #多进程下载
     pool = multiprocessing.Pool(multiprocessing.cpu_count())
@@ -134,12 +118,20 @@ if __name__=="__main__":
 
     print("input || 请选择下载方式，输入对应数字[default:2]：1-下载所有提交代码 2-仅下载最后一次提交代码")
     method=int(input())
+    print("info || 检测到共 "+str(len(dataList))+" 个用户的数据")
+    print("input || 请输入希望下载用户索引开始范围(包含)： ",end='')
+    start=int(input())
+    print("input || 请输入希望下载用户索引结束范围(包含)： ",end='')
+    end=int(input())
+    print("info || 将下载从第 " +str(start) +" 到 "+str(end)+" 个用户的数据。下载将于3s后马上开始。")
+    time.sleep(3)
+
     if method==1:
         print("info || 开始下载全部代码")
-        pool.map(download_user,data.values())
+        pool.map(download_user,dataList[start-1:end])
     else:
         print("info || 开始下载最后一次提交代码")
-        pool.map(download_user_latest,data.values())
+        pool.map(download_user_latest,dataList[start-1:end])
 
     pool.close()
     pool.join()

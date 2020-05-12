@@ -1,0 +1,4968 @@
+[
+	{
+		"case_id": "2081",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/子串查找_1577868767370.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255171,
+				"upload_time": 1582681866412,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%AD%90%E4%B8%B2%E6%9F%A5%E6%89%BE_1582681865671.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 255173,
+				"upload_time": 1582681873689,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%AD%90%E4%B8%B2%E6%9F%A5%E6%89%BE_1582681872840.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2180",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找相同字符_1578246661060.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255515,
+				"upload_time": 1582705555044,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E6%89%BE%E7%9B%B8%E5%90%8C%E5%AD%97%E7%AC%A6_1582705554269.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2190",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/甲苯先生和大中锋的字符串_1578280226332.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 256672,
+				"upload_time": 1582729691156,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%B2%E8%8B%AF%E5%85%88%E7%94%9F%E5%92%8C%E5%A4%A7%E4%B8%AD%E9%94%8B%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582729686188.zip",
+				"score": 83.33
+			},
+			{
+				"upload_id": 256676,
+				"upload_time": 1582729812725,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%B2%E8%8B%AF%E5%85%88%E7%94%9F%E5%92%8C%E5%A4%A7%E4%B8%AD%E9%94%8B%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582729809928.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2177",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Array Poisonous Suffix Problem_1578242527621.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255296,
+				"upload_time": 1582692341401,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/ArrayPoisonousSuffixProblem_1582692340470.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2892",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/梦中的统计_1581142162901.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255551,
+				"upload_time": 1582706121616,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E6%A2%A6%E4%B8%AD%E7%9A%84%E7%BB%9F%E8%AE%A1_1582706120811.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2188",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字串覆盖_1578277402756.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255707,
+				"upload_time": 1582709213581,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%AD%97%E4%B8%B2%E8%A6%86%E7%9B%96_1582709212828.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2199",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/猫咪_1578285738249.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257316,
+				"upload_time": 1582780386191,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%8C%AB%E5%92%AA_1582780385270.zip",
+				"score": 90.0
+			},
+			{
+				"upload_id": 257317,
+				"upload_time": 1582780399423,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%8C%AB%E5%92%AA_1582780398516.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2198",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求字符串所有后缀贡献最大值_1578284624254.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257009,
+				"upload_time": 1582768708541,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E6%B1%82%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%89%80%E6%9C%89%E5%90%8E%E7%BC%80%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E5%80%BC_1582768707663.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2164",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/区分所有子字符串的最小更改_1577866310437.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 256682,
+				"upload_time": 1582730074718,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8C%BA%E5%88%86%E6%89%80%E6%9C%89%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%B0%8F%E6%9B%B4%E6%94%B9_1582730073640.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2196",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Samjia和矩阵_1578283732786.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 256924,
+				"upload_time": 1582765187254,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/Samjia%E5%92%8C%E7%9F%A9%E9%98%B5_1582765182719.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 256985,
+				"upload_time": 1582767721542,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/Samjia%E5%92%8C%E7%9F%A9%E9%98%B5_1582767718964.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2531",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/根据字符出现频率排序_1580561898191.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255189,
+				"upload_time": 1582682204426,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F_1582682203641.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2894",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/honoka的键盘_1581142653945.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 256630,
+				"upload_time": 1582728713980,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/honoka%E7%9A%84%E9%94%AE%E7%9B%98_1582728713175.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2530",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/自定义字符串排序_1580561130194.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255187,
+				"upload_time": 1582682104942,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8E%92%E5%BA%8F_1582682104161.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2178",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/生成魔咒_1578244508151.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255340,
+				"upload_time": 1582694818175,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%9F%E6%88%90%E9%AD%94%E5%92%92_1582694817423.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 255341,
+				"upload_time": 1582694881056,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%9F%E6%88%90%E9%AD%94%E5%92%92_1582694880317.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2200",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/好坏字符串_1578286600212.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257322,
+				"upload_time": 1582780800065,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%A5%BD%E5%9D%8F%E5%AD%97%E7%AC%A6%E4%B8%B2_1582780798679.zip",
+				"score": 30.0
+			},
+			{
+				"upload_id": 257323,
+				"upload_time": 1582780821712,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%A5%BD%E5%9D%8F%E5%AD%97%E7%AC%A6%E4%B8%B2_1582780820198.zip",
+				"score": 20.0
+			},
+			{
+				"upload_id": 257326,
+				"upload_time": 1582780876698,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%A5%BD%E5%9D%8F%E5%AD%97%E7%AC%A6%E4%B8%B2_1582780875450.zip",
+				"score": 30.0
+			},
+			{
+				"upload_id": 257335,
+				"upload_time": 1582781511495,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%A5%BD%E5%9D%8F%E5%AD%97%E7%AC%A6%E4%B8%B2_1582781510348.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2908",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词分类_1581144899702.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 255159,
+				"upload_time": 1582681721102,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582681720308.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 255160,
+				"upload_time": 1582681725550,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582681724720.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 255162,
+				"upload_time": 1582681744222,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582681743159.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 255164,
+				"upload_time": 1582681755727,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582681754949.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 255165,
+				"upload_time": 1582681763470,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582681762685.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 255166,
+				"upload_time": 1582681796446,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582681795625.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2936",
+		"case_type": "字符串",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/电话号码_1581089735969.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253421,
+				"upload_time": 1582608572788,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81_1582608572019.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253423,
+				"upload_time": 1582608615215,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81_1582608614441.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 253425,
+				"upload_time": 1582608625909,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81_1582608625133.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 253426,
+				"upload_time": 1582608637096,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/49405/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81_1582608636362.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2474",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长有效括号_1580472427940.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 258588,
+				"upload_time": 1582810102713,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7_1582810101908.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 258590,
+				"upload_time": 1582810130801,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7_1582810130025.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 258591,
+				"upload_time": 1582810142489,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7_1582810141657.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 258592,
+				"upload_time": 1582810148615,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7_1582810147816.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 258594,
+				"upload_time": 1582810157359,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7_1582810156622.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 258595,
+				"upload_time": 1582810231944,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7_1582810231104.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2592",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩形围成一圈_1580709242736.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257451,
+				"upload_time": 1582786358599,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786357743.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257458,
+				"upload_time": 1582786469516,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786468718.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257459,
+				"upload_time": 1582786510484,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786509664.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257460,
+				"upload_time": 1582786520970,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786520172.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257467,
+				"upload_time": 1582786654982,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786654161.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257469,
+				"upload_time": 1582786664575,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786663811.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 257471,
+				"upload_time": 1582786739587,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9F%A9%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BD%A2_1582786738816.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2173",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/特殊奇数和_1578227956049.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264882,
+				"upload_time": 1583054020904,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%89%B9%E6%AE%8A%E5%A5%87%E6%95%B0%E5%92%8C_1583054019978.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264883,
+				"upload_time": 1583054026031,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%89%B9%E6%AE%8A%E5%A5%87%E6%95%B0%E5%92%8C_1583054025186.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264885,
+				"upload_time": 1583054037464,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%89%B9%E6%AE%8A%E5%A5%87%E6%95%B0%E5%92%8C_1583054036172.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2172",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀转中缀_1578227554409.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264851,
+				"upload_time": 1583053581708,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053580836.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264864,
+				"upload_time": 1583053681069,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053680249.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264865,
+				"upload_time": 1583053723119,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053722327.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264866,
+				"upload_time": 1583053760534,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053759604.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 264867,
+				"upload_time": 1583053807767,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053806989.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 264871,
+				"upload_time": 1583053913751,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053912914.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 264872,
+				"upload_time": 1583053925175,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053924353.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 264874,
+				"upload_time": 1583053943109,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053942255.zip",
+				"score": 60.0
+			},
+			{
+				"upload_id": 264877,
+				"upload_time": 1583053959530,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%AD%E7%BC%80%E8%BD%AC%E5%90%8E%E7%BC%80_1583053958675.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2171",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/隔离链接列表中的偶数和奇数节点_1578225498823.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264844,
+				"upload_time": 1583053378035,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E9%9A%94%E7%A6%BB%E9%93%BE%E6%8E%A5%E5%88%97%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%81%B6%E6%95%B0%E5%92%8C%E5%A5%87%E6%95%B0%E8%8A%82%E7%82%B9_1583053377355.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264845,
+				"upload_time": 1583053388012,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E9%9A%94%E7%A6%BB%E9%93%BE%E6%8E%A5%E5%88%97%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%81%B6%E6%95%B0%E5%92%8C%E5%A5%87%E6%95%B0%E8%8A%82%E7%82%B9_1583053387275.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264847,
+				"upload_time": 1583053406783,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E9%9A%94%E7%A6%BB%E9%93%BE%E6%8E%A5%E5%88%97%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%81%B6%E6%95%B0%E5%92%8C%E5%A5%87%E6%95%B0%E8%8A%82%E7%82%B9_1583053405822.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2647",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/收集树木_1580799100843.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264641,
+				"upload_time": 1583050698685,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%94%B6%E9%9B%86%E6%A0%91%E6%9C%A8_1583050697736.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2548",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长K个唯一字符子字符串_1580613716698.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264802,
+				"upload_time": 1583052922654,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BFK%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2_1583052920929.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264804,
+				"upload_time": 1583052932692,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%9C%80%E9%95%BFK%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2_1583052930625.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2547",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算差异为k的不重复对_1580613441446.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264788,
+				"upload_time": 1583052630673,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E5%B7%AE%E5%BC%82%E4%B8%BAk%E7%9A%84%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%AF%B9_1583052629046.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264789,
+				"upload_time": 1583052651251,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E5%B7%AE%E5%BC%82%E4%B8%BAk%E7%9A%84%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%AF%B9_1583052649600.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264790,
+				"upload_time": 1583052680287,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E5%B7%AE%E5%BC%82%E4%B8%BAk%E7%9A%84%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%AF%B9_1583052678628.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264797,
+				"upload_time": 1583052753055,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E5%B7%AE%E5%BC%82%E4%B8%BAk%E7%9A%84%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%AF%B9_1583052751301.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2589",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卢卡斯数_1580708253148.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257411,
+				"upload_time": 1582785207560,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%8D%A2%E5%8D%A1%E6%96%AF%E6%95%B0_1582785206781.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2169",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀表达的评估_1578222987145.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264826,
+				"upload_time": 1583053184535,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E7%9A%84%E8%AF%84%E4%BC%B0_1583053183731.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264829,
+				"upload_time": 1583053211555,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E7%9A%84%E8%AF%84%E4%BC%B0_1583053210712.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264830,
+				"upload_time": 1583053220250,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E7%9A%84%E8%AF%84%E4%BC%B0_1583053219388.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264831,
+				"upload_time": 1583053251399,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E7%9A%84%E8%AF%84%E4%BC%B0_1583053250508.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264833,
+				"upload_time": 1583053268486,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%90%8E%E7%BC%80%E8%A1%A8%E8%BE%BE%E7%9A%84%E8%AF%84%E4%BC%B0_1583053267645.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2145",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/直方图中的最大矩形面积_1578143334531.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264769,
+				"upload_time": 1583052362063,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9B%B4%E6%96%B9%E5%9B%BE%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF_1583052361198.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264773,
+				"upload_time": 1583052385076,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%9B%B4%E6%96%B9%E5%9B%BE%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF_1583052384331.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2607",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/等于0、1和2_1580736171649.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264354,
+				"upload_time": 1583046527984,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%AD%89%E4%BA%8E0%E6%88%961%E6%88%962_1583046527182.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2629",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/艾莉亚与大战_1580783766545.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264592,
+				"upload_time": 1583050216448,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050215680.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264593,
+				"upload_time": 1583050219615,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050218779.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264594,
+				"upload_time": 1583050221851,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050221059.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264595,
+				"upload_time": 1583050223680,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050222883.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264596,
+				"upload_time": 1583050226498,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050225670.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264597,
+				"upload_time": 1583050229336,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050228510.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264598,
+				"upload_time": 1583050235682,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050234805.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 264600,
+				"upload_time": 1583050241148,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050240157.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264602,
+				"upload_time": 1583050245032,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050244194.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 264607,
+				"upload_time": 1583050286220,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050285428.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264608,
+				"upload_time": 1583050289062,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050288214.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 264609,
+				"upload_time": 1583050291752,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050291007.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 264611,
+				"upload_time": 1583050311387,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%89%BE%E8%8E%89%E4%BA%9A%E4%B8%8E%E5%A4%A7%E6%88%98_1583050310599.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2561",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算矩阵对的总和_1580629330600.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257340,
+				"upload_time": 1582782299152,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E7%9F%A9%E9%98%B5%E5%AF%B9%E7%9A%84%E6%80%BB%E5%92%8C_1582782298372.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257341,
+				"upload_time": 1582782306952,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E7%9F%A9%E9%98%B5%E5%AF%B9%E7%9A%84%E6%80%BB%E5%92%8C_1582782306158.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257343,
+				"upload_time": 1582782320885,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E7%9F%A9%E9%98%B5%E5%AF%B9%E7%9A%84%E6%80%BB%E5%92%8C_1582782319965.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2186",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/特殊序列和_1578276936192.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257405,
+				"upload_time": 1582785063690,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%E5%92%8C_1582785062863.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257406,
+				"upload_time": 1582785074508,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%E5%92%8C_1582785073669.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257407,
+				"upload_time": 1582785082526,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%E5%92%8C_1582785081777.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2142",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/打印支架编号_1578141434336.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264744,
+				"upload_time": 1583052080074,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%89%93%E5%8D%B0%E6%8B%AC%E5%8F%B7%E7%BC%96%E5%8F%B7_1583052079320.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264745,
+				"upload_time": 1583052085605,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%89%93%E5%8D%B0%E6%8B%AC%E5%8F%B7%E7%BC%96%E5%8F%B7_1583052084800.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 264748,
+				"upload_time": 1583052109633,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%89%93%E5%8D%B0%E6%8B%AC%E5%8F%B7%E7%BC%96%E5%8F%B7_1583052108866.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2185",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/序列元素_1578276704860.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257401,
+				"upload_time": 1582784901312,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%BA%8F%E5%88%97%E5%85%83%E7%B4%A0_1582784900400.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257402,
+				"upload_time": 1582784936970,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%BA%8F%E5%88%97%E5%85%83%E7%B4%A0_1582784936102.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2482",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/一个简单的分数_1580476514307.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264368,
+				"upload_time": 1583046776063,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%86%E6%95%B0_1583046775241.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264408,
+				"upload_time": 1583047531716,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%86%E6%95%B0_1583047530864.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2141",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/生成二进制数_1578140920564.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264729,
+				"upload_time": 1583051891277,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%94%9F%E6%88%90%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0_1583051890103.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264731,
+				"upload_time": 1583051905728,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%94%9F%E6%88%90%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0_1583051905027.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2184",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/差异系列_1578276411758.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257393,
+				"upload_time": 1582784623423,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%B7%AE%E5%BC%82%E5%BA%8F%E5%88%97_1582784622598.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257394,
+				"upload_time": 1582784633410,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%B7%AE%E5%BC%82%E5%BA%8F%E5%88%97_1582784632609.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2140",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/卡旋转_1578140347213.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264713,
+				"upload_time": 1583051754673,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%8D%A1%E6%97%8B%E8%BD%AC_1583051753880.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2183",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/总和第N行_1578276140585.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257386,
+				"upload_time": 1582784380155,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%80%BB%E5%92%8C%E7%AC%ACN%E8%A1%8C_1582784379375.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257387,
+				"upload_time": 1582784388294,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%80%BB%E5%92%8C%E7%AC%ACN%E8%A1%8C_1582784387473.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257389,
+				"upload_time": 1582784520214,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%80%BB%E5%92%8C%E7%AC%ACN%E8%A1%8C_1582784519383.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257390,
+				"upload_time": 1582784534664,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%80%BB%E5%92%8C%E7%AC%ACN%E8%A1%8C_1582784533907.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257391,
+				"upload_time": 1582784542561,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%80%BB%E5%92%8C%E7%AC%ACN%E8%A1%8C_1582784541770.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2182",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/安全游戏_1578275845234.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257380,
+				"upload_time": 1582784046014,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%AE%89%E5%85%A8%E6%B8%B8%E6%88%8F_1582784045214.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2181",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/X1序列_1578275363480.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 257362,
+				"upload_time": 1582783424265,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/X1%E5%BA%8F%E5%88%97_1582783423559.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257363,
+				"upload_time": 1582783433729,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/X1%E5%BA%8F%E5%88%97_1582783432921.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257365,
+				"upload_time": 1582783496144,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/X1%E5%BA%8F%E5%88%97_1582783495294.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257366,
+				"upload_time": 1582783557269,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/X1%E5%BA%8F%E5%88%97_1582783556406.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257372,
+				"upload_time": 1582783720980,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/X1%E5%BA%8F%E5%88%97_1582783720164.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 257374,
+				"upload_time": 1582783740352,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/X1%E5%BA%8F%E5%88%97_1582783739546.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2614",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/索引计数_1580740517977.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264417,
+				"upload_time": 1583047663270,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E7%B4%A2%E5%BC%95%E8%AE%A1%E6%95%B0_1583047662467.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2558",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算逆转_1580627331854.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264893,
+				"upload_time": 1583054203921,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E9%80%86%E8%BD%AC_1583054203028.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264902,
+				"upload_time": 1583054456881,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E9%80%86%E8%BD%AC_1583054456189.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264903,
+				"upload_time": 1583054462295,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E8%AE%A1%E7%AE%97%E9%80%86%E8%BD%AC_1583054461460.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2610",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/长度总和_1580737573597.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264365,
+				"upload_time": 1583046723566,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E9%95%BF%E5%BA%A6%E6%80%BB%E5%92%8C_1583046721921.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2212",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/号码不足_1578289878596.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 258574,
+				"upload_time": 1582809828456,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%8F%B7%E7%A0%81%E4%B8%8D%E8%B6%B3_1582809827265.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 258575,
+				"upload_time": 1582809836995,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%8F%B7%E7%A0%81%E4%B8%8D%E8%B6%B3_1582809836229.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2618",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/早会_1580741639616.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264560,
+				"upload_time": 1583049857813,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E6%97%A9%E4%BC%9A_1583049857063.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2617",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/包含K个的子字符串的计数_1580741312784.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264480,
+				"upload_time": 1583048819497,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/%E5%8C%85%E5%90%ABK%E4%B8%AA%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%AE%A1%E6%95%B0_1583048818740.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2615",
+		"case_type": "线性表",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ASCII码的降序排列_1580740819534.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 264460,
+				"upload_time": 1583048432006,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/ASCII%E7%A0%81%E7%9A%84%E9%99%8D%E5%BA%8F%E6%8E%92%E5%88%97_1583048431113.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 264469,
+				"upload_time": 1583048611637,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4239/49405/ASCII%E7%A0%81%E7%9A%84%E9%99%8D%E5%BA%8F%E6%8E%92%E5%88%97_1583048610761.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2176",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀排序_1578238097987.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235756,
+				"upload_time": 1582010208418,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%90%8E%E7%BC%80%E6%8E%92%E5%BA%8F_1582010207684.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 235758,
+				"upload_time": 1582010224904,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%90%8E%E7%BC%80%E6%8E%92%E5%BA%8F_1582010224113.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 235759,
+				"upload_time": 1582010239308,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%90%8E%E7%BC%80%E6%8E%92%E5%BA%8F_1582010238568.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2494",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/翻转对_1580533703382.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248458,
+				"upload_time": 1582429174065,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E7%BF%BB%E8%BD%AC%E5%AF%B9_1582429173143.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2373",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/斯蒂克勒小偷_1580288377900.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248500,
+				"upload_time": 1582429943354,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%96%AF%E8%92%82%E5%85%8B%E5%8B%92%E5%B0%8F%E5%81%B7_1582429942577.zip",
+				"score": 100.0
+			},
+			{
+				"upload_id": 248501,
+				"upload_time": 1582429948281,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%96%AF%E8%92%82%E5%85%8B%E5%8B%92%E5%B0%8F%E5%81%B7_1582429947538.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2252",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计数字词的出现次数_1578662468635.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 250963,
+				"upload_time": 1582520589964,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E8%AE%A1%E6%95%B0%E5%AD%97%E8%AF%8D%E7%9A%84%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0_1582520589165.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 250964,
+				"upload_time": 1582520600443,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E8%AE%A1%E6%95%B0%E5%AD%97%E8%AF%8D%E7%9A%84%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0_1582520599729.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2395",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/简化阵列_1580309957332.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 251011,
+				"upload_time": 1582521499066,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E7%AE%80%E5%8C%96%E9%98%B5%E5%88%97_1582521498304.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 251012,
+				"upload_time": 1582521511969,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E7%AE%80%E5%8C%96%E9%98%B5%E5%88%97_1582521511150.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2394",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/将所有零移动到数组末尾_1580308584619.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 251007,
+				"upload_time": 1582521393562,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%B0%86%E6%89%80%E6%9C%89%E9%9B%B6%E7%A7%BB%E5%8A%A8%E5%88%B0%E6%95%B0%E7%BB%84%E6%9C%AB%E5%B0%BE_1582521392804.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 251008,
+				"upload_time": 1582521403531,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%B0%86%E6%89%80%E6%9C%89%E9%9B%B6%E7%A7%BB%E5%8A%A8%E5%88%B0%E6%95%B0%E7%BB%84%E6%9C%AB%E5%B0%BE_1582521402555.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2371",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/拯救钢铁侠_1580287906143.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248489,
+				"upload_time": 1582429793042,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%8B%AF%E6%95%91%E9%92%A2%E9%93%81%E4%BE%A0_1582429792303.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2392",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/乘积相同_1580305907167.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 251004,
+				"upload_time": 1582521301021,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%B9%98%E7%A7%AF%E7%9B%B8%E5%90%8C_1582521300259.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2193",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/事情的相似度_1578283308031.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235980,
+				"upload_time": 1582014092916,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%BA%8B%E6%83%85%E7%9A%84%E7%9B%B8%E4%BC%BC%E5%BA%A6_1582014091716.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 235992,
+				"upload_time": 1582014235915,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%BA%8B%E6%83%85%E7%9A%84%E7%9B%B8%E4%BC%BC%E5%BA%A6_1582014234851.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2701",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/找出井字棋的获胜者_1580879162570.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235931,
+				"upload_time": 1582013236778,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%89%BE%E5%87%BA%E4%BA%95%E5%AD%97%E6%A3%8B%E7%9A%84%E8%8E%B7%E8%83%9C%E8%80%85_1582013236000.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2426",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三大候选人_1580437067105.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253400,
+				"upload_time": 1582607836238,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%B8%89%E5%A4%A7%E5%80%99%E9%80%89%E4%BA%BA_1582607835466.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2425",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找最近的号码_1580436786414.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253382,
+				"upload_time": 1582607472962,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E6%9C%80%E8%BF%91%E7%9A%84%E5%8F%B7%E7%A0%81_1582607472185.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253384,
+				"upload_time": 1582607485182,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E6%9C%80%E8%BF%91%E7%9A%84%E5%8F%B7%E7%A0%81_1582607484422.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 253386,
+				"upload_time": 1582607501366,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E6%9C%80%E8%BF%91%E7%9A%84%E5%8F%B7%E7%A0%81_1582607500551.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253389,
+				"upload_time": 1582607522145,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E6%9C%80%E8%BF%91%E7%9A%84%E5%8F%B7%E7%A0%81_1582607521305.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253392,
+				"upload_time": 1582607567688,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E6%9C%80%E8%BF%91%E7%9A%84%E5%8F%B7%E7%A0%81_1582607566946.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2424",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找奇数_1580436517453.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253374,
+				"upload_time": 1582607324407,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%AF%BB%E6%89%BE%E5%A5%87%E6%95%B0_1582607323649.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2203",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/LJJ的字符串_1578287657460.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 236049,
+				"upload_time": 1582015157848,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582015157101.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 236147,
+				"upload_time": 1582016534839,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582016533958.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236177,
+				"upload_time": 1582017094431,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017093622.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236183,
+				"upload_time": 1582017134005,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017133173.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 236184,
+				"upload_time": 1582017141138,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017140248.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236188,
+				"upload_time": 1582017159696,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017158842.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236192,
+				"upload_time": 1582017234949,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017234206.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236199,
+				"upload_time": 1582017331711,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017330907.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 236200,
+				"upload_time": 1582017337084,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017336346.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 236201,
+				"upload_time": 1582017346008,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017345253.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 236203,
+				"upload_time": 1582017359860,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017359157.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 236206,
+				"upload_time": 1582017419273,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/LJJ%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2_1582017418533.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2467",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个排序数组的第K个元素_1580456827109.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248121,
+				"upload_time": 1582424226924,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E7%AC%ACK%E4%B8%AA%E5%85%83%E7%B4%A0_1582424226139.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2346",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/螺旋遍历矩阵_1580213547873.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248330,
+				"upload_time": 1582427504048,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E8%9E%BA%E6%97%8B%E9%81%8D%E5%8E%86%E7%9F%A9%E9%98%B5_1582427503296.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2423",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/另一个数组的数组子集_1580436211204.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253354,
+				"upload_time": 1582606913734,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582606912936.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253355,
+				"upload_time": 1582606924831,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582606924043.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253358,
+				"upload_time": 1582606990159,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582606989331.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253360,
+				"upload_time": 1582607035491,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582607034733.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253362,
+				"upload_time": 1582607058710,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582607057873.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253363,
+				"upload_time": 1582607067668,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582607066891.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253364,
+				"upload_time": 1582607084619,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582607083801.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253366,
+				"upload_time": 1582607171805,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582607171002.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253368,
+				"upload_time": 1582607191808,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E6%95%B0%E7%BB%84%E5%AD%90%E9%9B%86_1582607191042.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2466",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/计算可能的三角形_1580456177340.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 247646,
+				"upload_time": 1582380150712,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E8%AE%A1%E7%AE%97%E5%8F%AF%E8%83%BD%E7%9A%84%E4%B8%89%E8%A7%92%E5%BD%A2_1582380149918.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2345",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找缺失和重复_1580212520904.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248350,
+				"upload_time": 1582427859424,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E7%BC%BA%E5%A4%B1%E5%92%8C%E9%87%8D%E5%A4%8D_1582427858612.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2389",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/波浪数组_1580299515242.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 251002,
+				"upload_time": 1582521204796,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%B3%A2%E6%B5%AA%E6%95%B0%E7%BB%84_1582521204060.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2344",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/旋转阵列_1580212176814.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248233,
+				"upload_time": 1582426184933,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%97%8B%E8%BD%AC%E9%98%B5%E5%88%97_1582426184152.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2388",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/检查两个数组是否相等_1580299182125.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 250995,
+				"upload_time": 1582520929933,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%A3%80%E6%9F%A5%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89_1582520929161.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2442",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大间距_1580447368478.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235868,
+				"upload_time": 1582012238284,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D_1582012237448.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 235871,
+				"upload_time": 1582012280243,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D_1582012279492.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2209",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/TheABCDMurderer_1578289301451.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 246972,
+				"upload_time": 1582370587861,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/TheABCDMurderer_1582370583071.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 247581,
+				"upload_time": 1582379318066,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/TheABCDMurderer_1582379311889.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 247860,
+				"upload_time": 1582383477381,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/TheABCDMurderer_1582383471961.zip",
+				"score": 100.0
+			},
+			{
+				"upload_id": 247867,
+				"upload_time": 1582383721286,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/TheABCDMurderer_1582383715871.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2307",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/多数元素_1580190831469.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235778,
+				"upload_time": 1582010760237,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0_1582010759200.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2527",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/餐厅过滤器_1580557412562.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253157,
+				"upload_time": 1582602393091,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E9%A4%90%E5%8E%85%E8%BF%87%E6%BB%A4%E5%99%A8_1582602392365.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 253162,
+				"upload_time": 1582602547389,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E9%A4%90%E5%8E%85%E8%BF%87%E6%BB%A4%E5%99%A8_1582602546646.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 253169,
+				"upload_time": 1582602667988,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E9%A4%90%E5%8E%85%E8%BF%87%E6%BB%A4%E5%99%A8_1582602667240.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2342",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/反转K个组元素_1580211252657.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248212,
+				"upload_time": 1582425846321,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%8F%8D%E8%BD%ACK%E4%B8%AA%E7%BB%84%E5%85%83%E7%B4%A0_1582425845595.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2386",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/四元素_1580295765729.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 250965,
+				"upload_time": 1582520637535,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520636762.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250967,
+				"upload_time": 1582520683033,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520682406.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 250968,
+				"upload_time": 1582520684926,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520684249.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 250969,
+				"upload_time": 1582520690403,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520689589.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 250970,
+				"upload_time": 1582520700015,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520699239.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250971,
+				"upload_time": 1582520702364,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520701604.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250972,
+				"upload_time": 1582520705337,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520704569.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 250973,
+				"upload_time": 1582520707199,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520706440.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250974,
+				"upload_time": 1582520709048,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520708283.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250975,
+				"upload_time": 1582520710865,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520710105.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250976,
+				"upload_time": 1582520712683,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520711909.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250977,
+				"upload_time": 1582520715450,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520714686.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250978,
+				"upload_time": 1582520722448,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520721695.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250979,
+				"upload_time": 1582520724296,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520723515.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250980,
+				"upload_time": 1582520727100,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520726306.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250981,
+				"upload_time": 1582520729941,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520729087.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250983,
+				"upload_time": 1582520732812,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520732042.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250984,
+				"upload_time": 1582520734599,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520733836.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 250985,
+				"upload_time": 1582520737351,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520736547.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250986,
+				"upload_time": 1582520739897,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520739096.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250987,
+				"upload_time": 1582520742614,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520741879.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250988,
+				"upload_time": 1582520744337,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520743604.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 250989,
+				"upload_time": 1582520746358,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520745595.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 250990,
+				"upload_time": 1582520749182,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520748418.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 250991,
+				"upload_time": 1582520751004,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520750240.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 250992,
+				"upload_time": 1582520752826,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520752000.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 250993,
+				"upload_time": 1582520755692,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%9B%E5%85%83%E7%B4%A0_1582520754981.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2341",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/合并时没有多余的空间_1580210956158.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248390,
+				"upload_time": 1582428371377,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%B8%8D%E5%8D%A0%E7%94%A8%E9%A2%9D%E5%A4%96%E7%A9%BA%E9%97%B4%E7%9A%84%E5%90%88%E5%B9%B6_1582428370618.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2340",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/困雨水_1580210588017.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248259,
+				"upload_time": 1582426757336,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%9B%B0%E9%9B%A8%E6%B0%B4_1582426756593.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2283",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/对0、1和2的数组进行排序_1580044533249.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253286,
+				"upload_time": 1582604502188,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%AF%B90%E5%92%8C1%E5%92%8C2%E7%9A%84%E6%95%B0%E7%BB%84%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F_1582604501400.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 253290,
+				"upload_time": 1582604563348,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%AF%B90%E5%92%8C1%E5%92%8C2%E7%9A%84%E6%95%B0%E7%BB%84%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F_1582604562542.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2061",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求到达数组末端的最小移动数_1577371584339.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235880,
+				"upload_time": 1582012400736,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80_1582012399908.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2280",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组中缺少数字_1580021731174.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253276,
+				"upload_time": 1582604275346,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%BC%BA%E5%B0%91%E6%95%B0%E5%AD%97_1582604274616.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2438",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/颜色分类_1580444384416.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235851,
+				"upload_time": 1582011904153,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB_1582011903365.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2339",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Inversion of array_1580210123436.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248219,
+				"upload_time": 1582425968315,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%80%92%E7%BD%AE%E4%B8%AA%E6%95%B0_1582425967329.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2338",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/成对元素_1580209509978.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248185,
+				"upload_time": 1582425318525,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%88%90%E5%AF%B9%E5%85%83%E7%B4%A0_1582425317622.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 248197,
+				"upload_time": 1582425557480,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%88%90%E5%AF%B9%E5%85%83%E7%B4%A0_1582425556733.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2359",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/三元组计数_1580285767832.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248454,
+				"upload_time": 1582429089071,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%B8%89%E5%85%83%E7%BB%84%E8%AE%A1%E6%95%B0_1582429088302.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2358",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/k个最大元素_1580285444507.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248440,
+				"upload_time": 1582428954770,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/k%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0_1582428954000.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2357",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/查找给定总和的所有对_1580281101863.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248426,
+				"upload_time": 1582428828264,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%9F%A5%E6%89%BE%E7%BB%99%E5%AE%9A%E6%80%BB%E5%92%8C%E7%9A%84%E6%89%80%E6%9C%89%E5%AF%B9_1582428827517.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2356",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/左侧较小而右侧较大的元素_1580280620990.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248410,
+				"upload_time": 1582428670758,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%B7%A6%E4%BE%A7%E8%BE%83%E5%B0%8F%E8%80%8C%E5%8F%B3%E4%BE%A7%E8%BE%83%E5%A4%A7%E7%9A%84%E5%85%83%E7%B4%A0_1582428669983.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2279",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/给定总和的子数组_1580020054641.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253260,
+				"upload_time": 1582603912211,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E7%BB%99%E5%AE%9A%E6%80%BB%E5%92%8C%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84_1582603911413.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2179",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串_1578245780260.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 235842,
+				"upload_time": 1582011741661,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2_1582011740954.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2498",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按奇偶排序数组_1580536106585.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248465,
+				"upload_time": 1582429341585,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84_1582429340830.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2278",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Xor运算_1579951483405.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 253239,
+				"upload_time": 1582603526886,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/Xor%E8%BF%90%E7%AE%97_1582603525959.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2211",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/皇室夫人的名字_1578290259363.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 248172,
+				"upload_time": 1582425028652,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E7%9A%87%E5%AE%A4%E5%A4%AB%E4%BA%BA%E7%9A%84%E5%90%8D%E5%AD%97_1582425027874.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2718",
+		"case_type": "数组",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/交换字符串中的元素_1580893832086.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 236218,
+				"upload_time": 1582017892764,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%BA%A4%E6%8D%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0_1582017891935.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236219,
+				"upload_time": 1582017922856,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%BA%A4%E6%8D%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0_1582017922119.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 236245,
+				"upload_time": 1582018387437,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4240/49405/%E4%BA%A4%E6%8D%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0_1582018386712.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2397",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序二叉树_1580361571717.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 287245,
+				"upload_time": 1584372956671,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%8E%92%E5%BA%8F%E4%BA%8C%E5%8F%89%E6%A0%91_1584372955773.zip",
+				"score": 10.0
+			},
+			{
+				"upload_id": 287264,
+				"upload_time": 1584373374576,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%8E%92%E5%BA%8F%E4%BA%8C%E5%8F%89%E6%A0%91_1584373373629.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2463",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两数之和 II - 输入有序数组_1580454077011.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291983,
+				"upload_time": 1584588445098,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84_1584588444322.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291985,
+				"upload_time": 1584588450837,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84_1584588450011.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291986,
+				"upload_time": 1584588463009,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84_1584588462236.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 291987,
+				"upload_time": 1584588476565,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84_1584588475777.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2451",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索插入位置_1580449614614.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291956,
+				"upload_time": 1584587930095,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584587928746.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291959,
+				"upload_time": 1584588019062,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584588018269.zip",
+				"score": 20.0
+			},
+			{
+				"upload_id": 291961,
+				"upload_time": 1584588035566,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584588034730.zip",
+				"score": 20.0
+			},
+			{
+				"upload_id": 291964,
+				"upload_time": 1584588074276,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584588073519.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291965,
+				"upload_time": 1584588078052,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584588077239.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 291967,
+				"upload_time": 1584588100975,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584588100179.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 291968,
+				"upload_time": 1584588114694,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE_1584588113815.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2462",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找峰值_1580453368046.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291979,
+				"upload_time": 1584588351769,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC_1584588350866.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 291981,
+				"upload_time": 1584588379082,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC_1584588378264.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2450",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/在排序数组中查找元素的第一个和最后一个位置_1580449475334.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291942,
+				"upload_time": 1584587569845,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE_1584587569036.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291946,
+				"upload_time": 1584587715113,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE_1584587714337.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 291947,
+				"upload_time": 1584587745964,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE_1584587745124.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2461",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找旋转排序数组中的最小值 II_1580453236052.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291976,
+				"upload_time": 1584588279721,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BCII_1584588278936.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2174",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/The Bridge on the River Kawaii_1578231113186.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291884,
+				"upload_time": 1584586698186,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/TheBridgeOnTheRiverKawaii_1584586697233.zip",
+				"score": 10.0
+			},
+			{
+				"upload_id": 291888,
+				"upload_time": 1584586796654,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/TheBridgeOnTheRiverKawaii_1584586795718.zip",
+				"score": 10.0
+			},
+			{
+				"upload_id": 291898,
+				"upload_time": 1584586910496,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/TheBridgeOnTheRiverKawaii_1584586909555.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2537",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数组中的第K个最大元素_1580572732333.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 287267,
+				"upload_time": 1584373419039,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0_1584373418101.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 287269,
+				"upload_time": 1584373428940,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0_1584373428153.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 287271,
+				"upload_time": 1584373437763,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0_1584373436987.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 287273,
+				"upload_time": 1584373452878,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0_1584373452113.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 287274,
+				"upload_time": 1584373457141,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0_1584373456362.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2449",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索旋转排序数组_1580449309410.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291929,
+				"upload_time": 1584587331189,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84_1584587330343.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291931,
+				"upload_time": 1584587339186,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84_1584587338348.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291934,
+				"upload_time": 1584587389695,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84_1584587388843.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2514",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/判断子序列_1580541391026.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 287220,
+				"upload_time": 1584372493712,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372492952.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 287221,
+				"upload_time": 1584372500052,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372499274.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 287222,
+				"upload_time": 1584372507032,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372506248.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 287225,
+				"upload_time": 1584372628419,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372627618.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 287235,
+				"upload_time": 1584372819680,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372818911.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 287236,
+				"upload_time": 1584372827792,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372827001.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 287239,
+				"upload_time": 1584372856319,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97_1584372855514.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2445",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效的字母异位词_1580449365191.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291901,
+				"upload_time": 1584586933708,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D_1584586932796.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291908,
+				"upload_time": 1584587085194,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D_1584587084223.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291910,
+				"upload_time": 1584587107278,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D_1584587106368.zip",
+				"score": 60.0
+			},
+			{
+				"upload_id": 291913,
+				"upload_time": 1584587129161,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D_1584587128366.zip",
+				"score": 60.0
+			},
+			{
+				"upload_id": 291919,
+				"upload_time": 1584587242002,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D_1584587241180.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291921,
+				"upload_time": 1584587248904,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D_1584587248103.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2115",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/染色_1578054196824.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 292013,
+				"upload_time": 1584588976228,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9F%93%E8%89%B2_1584588975373.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2741",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长连续递增序列_1580964533662.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 292009,
+				"upload_time": 1584588856386,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97_1584588855577.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2542",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长连续序列_1580575865453.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291838,
+				"upload_time": 1584585721484,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97_1584585720700.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 291839,
+				"upload_time": 1584585735398,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97_1584585734608.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2454",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找旋转排序数组中的最小值_1580450812181.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291975,
+				"upload_time": 1584588224396,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC_1584588223590.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2465",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/H指数 II_1580454989013.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291994,
+				"upload_time": 1584588602789,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588601989.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 292000,
+				"upload_time": 1584588733587,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588732754.zip",
+				"score": 40.0
+			},
+			{
+				"upload_id": 292001,
+				"upload_time": 1584588754488,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588753708.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 292003,
+				"upload_time": 1584588781972,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588781099.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 292004,
+				"upload_time": 1584588789462,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588788630.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 292005,
+				"upload_time": 1584588799242,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588798437.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 292006,
+				"upload_time": 1584588806124,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588805332.zip",
+				"score": 20.0
+			},
+			{
+				"upload_id": 292008,
+				"upload_time": 1584588831617,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/H%E6%8C%87%E6%95%B0II_1584588830780.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2453",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/搜索旋转排序数组 II_1580450621478.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291970,
+				"upload_time": 1584588190638,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84II_1584588189832.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2464",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/长度最小的子数组_1580454672018.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 291992,
+				"upload_time": 1584588590864,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84_1584588590064.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2506",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最长上升子序列_1580538307961.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 287182,
+				"upload_time": 1584371902707,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97_1584371901877.zip",
+				"score": 20.0
+			},
+			{
+				"upload_id": 287184,
+				"upload_time": 1584371914046,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97_1584371913175.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 287187,
+				"upload_time": 1584371943775,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97_1584371942971.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 287189,
+				"upload_time": 1584371962178,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97_1584371961372.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 287191,
+				"upload_time": 1584371994017,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97_1584371993215.zip",
+				"score": 80.0
+			},
+			{
+				"upload_id": 287201,
+				"upload_time": 1584372186995,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97_1584372186236.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2505",
+		"case_type": "查找算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找重复数_1580538174683.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 287178,
+				"upload_time": 1584371735338,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4242/49405/%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0_1584371734502.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2535",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最多能完成排序的块_1580566432492.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267662,
+				"upload_time": 1583157180584,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%9C%80%E5%A4%9A%E8%83%BD%E5%AE%8C%E6%88%90%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9D%97_1583157179860.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2534",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/合并K个排序数组_1580565261018.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267656,
+				"upload_time": 1583157034151,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84_1583157033206.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2412",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/循环排序_1580375704830.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267562,
+				"upload_time": 1583155477691,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%BE%AA%E7%8E%AF%E6%8E%92%E5%BA%8F_1583155476942.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2444",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/存在重复元素_1580448429544.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267698,
+				"upload_time": 1583157833926,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0_1583157833216.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2387",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/局部排序_1580299140510.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267574,
+				"upload_time": 1583155706184,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%B1%80%E9%83%A8%E6%8E%92%E5%BA%8F_1583155705420.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2441",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序链表_1580446556918.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267673,
+				"upload_time": 1583157271938,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8_1583157271141.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2396",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序机械臂_1580358588714.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267640,
+				"upload_time": 1583156821098,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E6%9C%BA%E6%A2%B0%E8%87%82_1583156820374.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267644,
+				"upload_time": 1583156844561,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E6%9C%BA%E6%A2%B0%E8%87%82_1583156843792.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267645,
+				"upload_time": 1583156848836,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E6%9C%BA%E6%A2%B0%E8%87%82_1583156848072.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267647,
+				"upload_time": 1583156881083,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E6%9C%BA%E6%A2%B0%E8%87%82_1583156880355.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 267649,
+				"upload_time": 1583156911249,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E6%9C%BA%E6%A2%B0%E8%87%82_1583156910515.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2440",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/对链表进行插入排序_1580446182840.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267665,
+				"upload_time": 1583157233755,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F_1583157232773.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267668,
+				"upload_time": 1583157252287,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F_1583157251634.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267670,
+				"upload_time": 1583157255940,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F_1583157255127.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2152",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/魔方俱乐部_1578209813393.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267681,
+				"upload_time": 1583157484200,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E9%AD%94%E6%96%B9%E4%BF%B1%E4%B9%90%E9%83%A8_1583157483395.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267684,
+				"upload_time": 1583157530446,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E9%AD%94%E6%96%B9%E4%BF%B1%E4%B9%90%E9%83%A8_1583157529706.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2490",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两个数组的交集_1580487351779.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267610,
+				"upload_time": 1583156269080,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86_1583156268267.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2390",
+		"case_type": "排序算法",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/排序交换_1580303259115.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267578,
+				"upload_time": 1583155731861,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E4%BA%A4%E6%8D%A2_1583155730932.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 267595,
+				"upload_time": 1583155965235,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4243/49405/%E6%8E%92%E5%BA%8F%E4%BA%A4%E6%8D%A2_1583155964326.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2070",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Pow(x, n)_1577688408110.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272955,
+				"upload_time": 1583376984706,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583376983986.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272957,
+				"upload_time": 1583376997727,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583376996964.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272958,
+				"upload_time": 1583377011029,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377010272.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272960,
+				"upload_time": 1583377031132,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377030206.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272962,
+				"upload_time": 1583377041255,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377040443.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272963,
+				"upload_time": 1583377050121,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377049208.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272965,
+				"upload_time": 1583377087930,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377087209.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272966,
+				"upload_time": 1583377092141,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377091360.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272967,
+				"upload_time": 1583377101088,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377100333.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272969,
+				"upload_time": 1583377123622,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377122878.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272970,
+				"upload_time": 1583377172627,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377171841.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272971,
+				"upload_time": 1583377174426,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377173694.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272972,
+				"upload_time": 1583377176364,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377175619.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272973,
+				"upload_time": 1583377179540,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377178786.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272974,
+				"upload_time": 1583377181565,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377180758.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272975,
+				"upload_time": 1583377183632,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377182902.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272976,
+				"upload_time": 1583377185856,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377185084.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272977,
+				"upload_time": 1583377187735,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377186985.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272978,
+				"upload_time": 1583377191964,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377191197.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272979,
+				"upload_time": 1583377194241,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377193373.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272980,
+				"upload_time": 1583377196999,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377196253.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272981,
+				"upload_time": 1583377199665,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377198914.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272982,
+				"upload_time": 1583377203738,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377202891.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272984,
+				"upload_time": 1583377206802,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377205853.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272986,
+				"upload_time": 1583377209584,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377208841.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272987,
+				"upload_time": 1583377211637,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377210872.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272988,
+				"upload_time": 1583377214152,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377213386.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 272990,
+				"upload_time": 1583377241841,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377241118.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272991,
+				"upload_time": 1583377270477,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377269747.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272992,
+				"upload_time": 1583377280189,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377279460.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272994,
+				"upload_time": 1583377297202,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377296474.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272995,
+				"upload_time": 1583377305305,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B1%82%E5%B9%82_1583377304556.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2111",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/丑数 II_1578051262854.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273124,
+				"upload_time": 1583380705658,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%91%E6%95%B0II_1583380704896.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273125,
+				"upload_time": 1583380724055,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%91%E6%95%B0II_1583380723291.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273129,
+				"upload_time": 1583380780411,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%91%E6%95%B0II_1583380779640.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273132,
+				"upload_time": 1583380813981,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%91%E6%95%B0II_1583380812743.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2099",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Excel表列序号_1578048275379.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273085,
+				"upload_time": 1583379416403,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7_1583379415591.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2110",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/丑数_1578051147092.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273116,
+				"upload_time": 1583380430684,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%91%E6%95%B0_1583380429934.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2153",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数反转_1577412407681.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272881,
+				"upload_time": 1583374962427,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC_1583374961667.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 272884,
+				"upload_time": 1583375030540,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC_1583375029880.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272887,
+				"upload_time": 1583375050032,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC_1583375049343.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272888,
+				"upload_time": 1583375061724,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC_1583375061015.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272890,
+				"upload_time": 1583375068524,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC_1583375067786.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2098",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ Excel表列名称_1578048149469.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273038,
+				"upload_time": 1583378589077,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378588308.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273039,
+				"upload_time": 1583378608483,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378603744.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273040,
+				"upload_time": 1583378627993,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378627247.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273043,
+				"upload_time": 1583378649515,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378648768.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273048,
+				"upload_time": 1583378685448,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378684683.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273049,
+				"upload_time": 1583378705321,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378704546.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273052,
+				"upload_time": 1583378787217,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378786485.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273053,
+				"upload_time": 1583378797468,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378796747.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273054,
+				"upload_time": 1583378809750,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378808986.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273055,
+				"upload_time": 1583378815237,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378814452.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273056,
+				"upload_time": 1583378831760,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378830886.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273057,
+				"upload_time": 1583378866758,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378865980.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273060,
+				"upload_time": 1583378888793,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378888034.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273061,
+				"upload_time": 1583378899334,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378898564.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273063,
+				"upload_time": 1583378947697,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378946948.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273064,
+				"upload_time": 1583378957024,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583378956272.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273065,
+				"upload_time": 1583379006206,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379005411.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273066,
+				"upload_time": 1583379024320,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379023559.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273068,
+				"upload_time": 1583379032002,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379031283.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273070,
+				"upload_time": 1583379173085,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379172298.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273072,
+				"upload_time": 1583379192280,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379191526.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273073,
+				"upload_time": 1583379198303,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379197501.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273076,
+				"upload_time": 1583379238560,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379237759.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273077,
+				"upload_time": 1583379279782,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379279118.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273078,
+				"upload_time": 1583379292888,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379292139.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273079,
+				"upload_time": 1583379299743,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0_1583379298987.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2097",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/分数到小数_1578047845852.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273029,
+				"upload_time": 1583378387236,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0_1583378386445.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273030,
+				"upload_time": 1583378401516,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0_1583378400721.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2096",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/x 的平方根_1578047147585.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273027,
+				"upload_time": 1583378339005,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9_1583378338268.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2095",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 二进制求和_1578046703759.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273024,
+				"upload_time": 1583378286772,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C_1583378286020.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273025,
+				"upload_time": 1583378304024,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C_1583378303290.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273026,
+				"upload_time": 1583378310802,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C_1583378310086.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2094",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/有效数字_1578046417861.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273022,
+				"upload_time": 1583378255010,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97_1583378254169.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2093",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/第k个排列_1577688544639.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273020,
+				"upload_time": 1583378142011,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%AC%ACk%E4%B8%AA%E6%8E%92%E5%88%97_1583378141288.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2108",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/数字 1 的个数_1578050473039.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273103,
+				"upload_time": 1583379924654,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B0%E5%AD%971%E7%9A%84%E4%B8%AA%E6%95%B0_1583379923889.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2106",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/基本计算器_1578050148042.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273100,
+				"upload_time": 1583379869358,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8_1583379868549.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2127",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/超级次方_1578119933462.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 267708,
+				"upload_time": 1583158042933,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B6%85%E7%BA%A7%E6%AC%A1%E6%96%B9_1583158042187.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2105",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/矩形面积_1578049968361.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273097,
+				"upload_time": 1583379849818,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF_1583379849086.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273098,
+				"upload_time": 1583379856620,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF_1583379855912.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2126",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/最大整除子集_1578119645442.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273871,
+				"upload_time": 1583420748156,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%9C%80%E5%A4%A7%E6%95%B4%E9%99%A4%E5%AD%90%E9%9B%86_1583420747413.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273872,
+				"upload_time": 1583420756321,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%9C%80%E5%A4%A7%E6%95%B4%E9%99%A4%E5%AD%90%E9%9B%86_1583420755563.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273873,
+				"upload_time": 1583420770518,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%9C%80%E5%A4%A7%E6%95%B4%E9%99%A4%E5%AD%90%E9%9B%86_1583420769768.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2069",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串相乘_1577687896817.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272954,
+				"upload_time": 1583376948583,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98_1583376947864.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2068",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/两数相除_1577685525513.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272948,
+				"upload_time": 1583376824366,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4_1583376823617.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 272949,
+				"upload_time": 1583376848231,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4_1583376847468.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 272952,
+				"upload_time": 1583376918378,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4_1583376917647.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 272953,
+				"upload_time": 1583376923862,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4_1583376923151.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2109",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/各位相加_1578051032564.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273110,
+				"upload_time": 1583380220374,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0_1583380219623.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2067",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数转罗马数字_1577685311995.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272944,
+				"upload_time": 1583376779837,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97_1583376779069.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 272945,
+				"upload_time": 1583376788626,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97_1583376787857.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272946,
+				"upload_time": 1583376798679,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97_1583376797893.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2584",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/Nim 游戏_1580703874230.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272999,
+				"upload_time": 1583377357118,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/Nim%E6%B8%B8%E6%88%8F_1583377356343.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2100",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/阶乘后的零_1578048826487.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273087,
+				"upload_time": 1583379515074,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6_1583379514288.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2122",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/水壶问题_1578056371391.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273855,
+				"upload_time": 1583420465608,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B0%B4%E5%A3%B6%E9%97%AE%E9%A2%98_1583420464874.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273858,
+				"upload_time": 1583420499682,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%B0%B4%E5%A3%B6%E9%97%AE%E9%A2%98_1583420498909.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2121",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/ 计算各个位数不同的数字个数_1578056187275.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273824,
+				"upload_time": 1583419917791,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583419913337.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273830,
+				"upload_time": 1583420004437,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583420001903.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 273831,
+				"upload_time": 1583420028942,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583420026525.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 273833,
+				"upload_time": 1583420073051,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583420068473.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273843,
+				"upload_time": 1583420307362,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583420306570.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273844,
+				"upload_time": 1583420313601,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583420312777.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 273847,
+				"upload_time": 1583420404383,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0_1583420403519.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2065",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字符串转换整数_1577685079613.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272920,
+				"upload_time": 1583376229771,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376228995.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 272921,
+				"upload_time": 1583376302780,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376301986.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272922,
+				"upload_time": 1583376312466,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376311662.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272923,
+				"upload_time": 1583376330800,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376329996.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272924,
+				"upload_time": 1583376347348,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376346499.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272925,
+				"upload_time": 1583376353125,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376352360.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272926,
+				"upload_time": 1583376369198,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376368424.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272929,
+				"upload_time": 1583376410421,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376409614.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 272930,
+				"upload_time": 1583376427318,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376426570.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 272931,
+				"upload_time": 1583376487724,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376486935.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272932,
+				"upload_time": 1583376502579,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376501770.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 272934,
+				"upload_time": 1583376552466,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376551507.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 272935,
+				"upload_time": 1583376568908,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376568111.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 272936,
+				"upload_time": 1583376575636,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0_1583376574711.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2120",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数拆分_1578055217390.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273811,
+				"upload_time": 1583419777017,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86_1583419776249.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273812,
+				"upload_time": 1583419784238,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86_1583419783476.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273813,
+				"upload_time": 1583419801560,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86_1583419800800.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273816,
+				"upload_time": 1583419809194,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86_1583419808374.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2064",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/罗马数字转整数_1577682190777.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272913,
+				"upload_time": 1583375954702,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0_1583375953935.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 272915,
+				"upload_time": 1583376044243,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0_1583376043411.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 272916,
+				"upload_time": 1583376129602,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0_1583376128854.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272917,
+				"upload_time": 1583376140246,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0_1583376139445.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2063",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/回文数_1577681657900.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272902,
+				"upload_time": 1583375729173,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%9B%9E%E6%96%87%E6%95%B0_1583375728391.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 272904,
+				"upload_time": 1583375747087,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%9B%9E%E6%96%87%E6%95%B0_1583375746332.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2119",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/路径交叉_1578055074509.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273797,
+				"upload_time": 1583419522886,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89_1583419522123.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273800,
+				"upload_time": 1583419594488,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89_1583419593713.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273801,
+				"upload_time": 1583419596357,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89_1583419595573.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273802,
+				"upload_time": 1583419598559,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89_1583419597734.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273803,
+				"upload_time": 1583419601303,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89_1583419600557.zip",
+				"score": 33.33
+			},
+			{
+				"upload_id": 273805,
+				"upload_time": 1583419608420,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89_1583419607654.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2117",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/灯泡开关_1578053846249.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273795,
+				"upload_time": 1583419484147,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3_1583419483386.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2116",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/超级丑数_1578053720076.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273793,
+				"upload_time": 1583419405105,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B6%85%E7%BA%A7%E4%B8%91%E6%95%B0_1583419404341.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273794,
+				"upload_time": 1583419413693,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E8%B6%85%E7%BA%A7%E4%B8%91%E6%95%B0_1583419411213.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2114",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/完全平方数_1578052819098.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273782,
+				"upload_time": 1583418989644,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0_1583418988892.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273785,
+				"upload_time": 1583419108054,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0_1583419107335.zip",
+				"score": 66.67
+			},
+			{
+				"upload_id": 273788,
+				"upload_time": 1583419253211,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0_1583419252424.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2113",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/整数转换英文表示_1578052667053.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 273757,
+				"upload_time": 1583418424682,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418424022.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273758,
+				"upload_time": 1583418431405,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418430621.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 273759,
+				"upload_time": 1583418444234,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418443451.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 273760,
+				"upload_time": 1583418475977,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418475205.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 273763,
+				"upload_time": 1583418506061,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418505258.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 273764,
+				"upload_time": 1583418566037,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418565253.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 273765,
+				"upload_time": 1583418576143,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418575376.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 273767,
+				"upload_time": 1583418602569,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418601743.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 273769,
+				"upload_time": 1583418639281,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418638511.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 273770,
+				"upload_time": 1583418648789,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418647995.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 273776,
+				"upload_time": 1583418844901,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418844133.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 273777,
+				"upload_time": 1583418851046,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418850261.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 273778,
+				"upload_time": 1583418871616,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA_1583418870806.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2134",
+		"case_type": "数字操作",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/可怜的小猪_1578123873409.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 272878,
+				"upload_time": 1583374863591,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4244/49405/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%B0%8F%E7%8C%AA_1583374862820.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2253",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二逼平衡树_1578919897355.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298648,
+				"upload_time": 1584928255151,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E4%BA%8C%E9%80%BC%E5%B9%B3%E8%A1%A1%E6%A0%91_1584928254391.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2296",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/指定累加和的最长路径长度_1580113272457.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298605,
+				"upload_time": 1584927060917,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927060045.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 298606,
+				"upload_time": 1584927081189,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927080378.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 298607,
+				"upload_time": 1584927086676,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927085778.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 298608,
+				"upload_time": 1584927099886,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927098901.zip",
+				"score": 50.0
+			},
+			{
+				"upload_id": 298609,
+				"upload_time": 1584927109637,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927108754.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 298616,
+				"upload_time": 1584927190908,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927190065.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 298617,
+				"upload_time": 1584927237291,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927236493.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 298618,
+				"upload_time": 1584927248877,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%87%E5%AE%9A%E7%B4%AF%E5%8A%A0%E5%92%8C%E7%9A%84%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84%E9%95%BF%E5%BA%A6_1584927247990.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2295",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/节点的最近公共祖先_1580112448789.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298596,
+				"upload_time": 1584926534890,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88_1584926533953.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298597,
+				"upload_time": 1584926568115,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88_1584926567294.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298600,
+				"upload_time": 1584926800729,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88_1584926799700.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2273",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/苹果树_1579408051351.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298677,
+				"upload_time": 1584930464916,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E8%8B%B9%E6%9E%9C%E6%A0%91_1584930464088.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2151",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/生成树求和_1578205904961.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298681,
+				"upload_time": 1584931163626,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E7%94%9F%E6%88%90%E6%A0%91%E6%B1%82%E5%92%8C_1584931162870.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2291",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/哈夫曼树_1580100517952.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298705,
+				"upload_time": 1584931915019,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91_1584931914222.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2304",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/按层和ZigZag打印二叉树_1580185968180.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 292093,
+				"upload_time": 1584592942340,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%89%E5%B1%82%E5%92%8CZigZag%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91_1584592940909.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298573,
+				"upload_time": 1584924865500,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%89%E5%B1%82%E5%92%8CZigZag%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91_1584924864717.zip",
+				"score": 75.0
+			},
+			{
+				"upload_id": 298574,
+				"upload_time": 1584924909908,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%8C%89%E5%B1%82%E5%92%8CZigZag%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91_1584924909119.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2149",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/寻找 LCT_1578201870059.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298678,
+				"upload_time": 1584930520481,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%AF%BB%E6%89%BELCT_1584930519716.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2301",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/字典树的实现_1580184504148.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298754,
+				"upload_time": 1584932911678,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%AD%97%E5%85%B8%E6%A0%91%E7%9A%84%E5%AE%9E%E7%8E%B0_1584932910829.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2289",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/根据后序数组重建搜索二叉树_1580098878495.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298690,
+				"upload_time": 1584931694710,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%A0%B9%E6%8D%AE%E5%90%8E%E5%BA%8F%E6%95%B0%E7%BB%84%E9%87%8D%E5%BB%BA%E6%90%9C%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91_1584931693897.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2168",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求权值和最小的边集的子集_1578216688887.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298716,
+				"upload_time": 1584932121336,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%B1%82%E6%9D%83%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E8%BE%B9%E9%9B%86%E7%9A%84%E5%AD%90%E9%9B%86_1584932120433.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2300",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树遍历_1580183600465.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298739,
+				"upload_time": 1584932737993,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86_1584932737173.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298743,
+				"upload_time": 1584932780532,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86_1584932779425.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2266",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/独特的树叶_1579277545959.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298676,
+				"upload_time": 1584930209520,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E7%8B%AC%E7%89%B9%E7%9A%84%E6%A0%91%E5%8F%B6_1584930208597.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2288",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉树_1580096769533.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298687,
+				"upload_time": 1584931577509,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E4%BA%8C%E5%8F%89%E6%A0%91_1584931576665.zip",
+				"score": 83.33
+			},
+			{
+				"upload_id": 298688,
+				"upload_time": 1584931587862,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E4%BA%8C%E5%8F%89%E6%A0%91_1584931587003.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2167",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/graph_1578215353563.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298711,
+				"upload_time": 1584932049216,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/graph_1584932048496.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2308",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后继节点_1580191919549.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298575,
+				"upload_time": 1584925105678,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%90%8E%E7%BB%A7%E8%8A%82%E7%82%B9_1584925104858.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298576,
+				"upload_time": 1584925113668,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%90%8E%E7%BB%A7%E8%8A%82%E7%82%B9_1584925112845.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298577,
+				"upload_time": 1584925121282,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%90%8E%E7%BB%A7%E8%8A%82%E7%82%B9_1584925120387.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2406",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/冒泡排序_1580373360926.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298680,
+				"upload_time": 1584931076720,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F_1584931075772.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2286",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/剩下的树_1580095104872.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298682,
+				"upload_time": 1584931312631,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%89%A9%E4%B8%8B%E7%9A%84%E6%A0%91_1584931311945.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298683,
+				"upload_time": 1584931318743,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%89%A9%E4%B8%8B%E7%9A%84%E6%A0%91_1584931318085.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298684,
+				"upload_time": 1584931326179,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%89%A9%E4%B8%8B%E7%9A%84%E6%A0%91_1584931325339.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298685,
+				"upload_time": 1584931336829,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%89%A9%E4%B8%8B%E7%9A%84%E6%A0%91_1584931335683.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2383",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的分解_1580293890501.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298654,
+				"upload_time": 1584928478944,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%A0%91%E7%9A%84%E5%88%86%E8%A7%A3_1584928478132.zip",
+				"score": 20.0
+			},
+			{
+				"upload_id": 298658,
+				"upload_time": 1584928639844,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%A0%91%E7%9A%84%E5%88%86%E8%A7%A3_1584928639050.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2415",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/加分二叉树_1580380851328.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298686,
+				"upload_time": 1584931438796,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%8A%A0%E5%88%86%E4%BA%8C%E5%8F%89%E6%A0%91_1584931437844.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2315",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/树的高度_1580196496265.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298595,
+				"upload_time": 1584926490010,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%A0%91%E7%9A%84%E9%AB%98%E5%BA%A6_1584926489112.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2237",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/文艺平衡树_1578645862113.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298626,
+				"upload_time": 1584927664117,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%96%87%E8%89%BA%E5%B9%B3%E8%A1%A1%E6%A0%91_1584927663281.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298627,
+				"upload_time": 1584927675353,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%96%87%E8%89%BA%E5%B9%B3%E8%A1%A1%E6%A0%91_1584927674551.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2236",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/普通平衡树_1578640784521.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298624,
+				"upload_time": 1584927463065,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%99%AE%E9%80%9A%E5%B9%B3%E8%A1%A1%E6%A0%91_1584927462123.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2312",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/统计和生成所有不同的二叉树_1580194109335.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298591,
+				"upload_time": 1584926230432,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E7%BB%9F%E8%AE%A1%E5%92%8C%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91_1584926229573.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298592,
+				"upload_time": 1584926237737,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E7%BB%9F%E8%AE%A1%E5%92%8C%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91_1584926236887.zip",
+				"score": 87.5
+			},
+			{
+				"upload_id": 298593,
+				"upload_time": 1584926256144,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E7%BB%9F%E8%AE%A1%E5%92%8C%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91_1584926255171.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2378",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/局域网_1580291840631.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298631,
+				"upload_time": 1584927951552,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584927950729.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298632,
+				"upload_time": 1584927974123,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584927973165.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298634,
+				"upload_time": 1584927979651,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584927978830.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298635,
+				"upload_time": 1584928000217,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584927999343.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298637,
+				"upload_time": 1584928015296,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584928014416.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298639,
+				"upload_time": 1584928025144,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584928024356.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298640,
+				"upload_time": 1584928030136,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584928029266.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298642,
+				"upload_time": 1584928046924,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584928046078.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298644,
+				"upload_time": 1584928056142,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%B1%80%E5%9F%9F%E7%BD%91_1584928055325.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2311",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/求和树_1580193300037.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298584,
+				"upload_time": 1584926030265,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%B1%82%E5%92%8C%E6%A0%91_1584926029351.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298585,
+				"upload_time": 1584926038645,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%B1%82%E5%92%8C%E6%A0%91_1584926037600.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298586,
+				"upload_time": 1584926049633,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%B1%82%E5%92%8C%E6%A0%91_1584926048665.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 298587,
+				"upload_time": 1584926056627,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%B1%82%E5%92%8C%E6%A0%91_1584926055678.zip",
+				"score": 25.0
+			},
+			{
+				"upload_id": 298588,
+				"upload_time": 1584926151171,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E6%B1%82%E5%92%8C%E6%A0%91_1584926150263.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2299",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二叉搜索树_1580182725545.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298721,
+				"upload_time": 1584932187844,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91_1584932187036.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2439",
+		"case_type": "树结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/异或_1580444503050.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 298582,
+				"upload_time": 1584925918925,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4246/49405/%E5%BC%82%E6%88%96_1584925918128.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2080",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/广度优先遍历图_1577867780412.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 292094,
+				"upload_time": 1584592950555,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%9B%BE_1584592949661.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2091",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/二分图匹配超级英雄_1578039155099.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293704,
+				"upload_time": 1584672662905,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%8C%B9%E9%85%8D%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84_1584672661910.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2090",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-网络_1578038135945.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293703,
+				"upload_time": 1584672543652,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E7%BD%91%E7%BB%9C_1584672542856.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2089",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-最短路径树问题_1578031111112.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293701,
+				"upload_time": 1584672451315,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E6%A0%91%E9%97%AE%E9%A2%98_1584672450461.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2088",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-黑暗前的幻想乡_1577955445107.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293699,
+				"upload_time": 1584672362372,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E9%BB%91%E6%9A%97%E5%89%8D%E7%9A%84%E5%B9%BB%E6%83%B3%E4%B9%A1_1584672361721.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 293700,
+				"upload_time": 1584672386696,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E9%BB%91%E6%9A%97%E5%89%8D%E7%9A%84%E5%B9%BB%E6%83%B3%E4%B9%A1_1584672385755.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2087",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-子集_1577951232283.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293671,
+				"upload_time": 1584671202391,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E5%AD%90%E9%9B%86_1584671201426.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 293682,
+				"upload_time": 1584672021468,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E5%AD%90%E9%9B%86_1584672020531.zip",
+				"score": 45.45
+			},
+			{
+				"upload_id": 293684,
+				"upload_time": 1584672032475,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E5%AD%90%E9%9B%86_1584672031496.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2086",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-最小生成树_1577949397932.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293665,
+				"upload_time": 1584671132342,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91_1584671131608.zip",
+				"score": 0.0
+			},
+			{
+				"upload_id": 293666,
+				"upload_time": 1584671140090,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91_1584671139187.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2085",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-最小树形图_1577912182462.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293658,
+				"upload_time": 1584670889668,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E6%9C%80%E5%B0%8F%E6%A0%91%E5%BD%A2%E5%9B%BE_1584670888469.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2084",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-非负权单源最短路_1577907780571.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293273,
+				"upload_time": 1584632130882,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E9%9D%9E%E8%B4%9F%E6%9D%83%E5%8D%95%E6%BA%90%E6%9C%80%E7%9F%AD%E8%B7%AF_1584632127381.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2139",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/道路阻断_1578135605089.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293727,
+				"upload_time": 1584673218105,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E9%81%93%E8%B7%AF%E9%98%BB%E6%96%AD_1584673217414.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2104",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-信息传递_1578042452221.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293723,
+				"upload_time": 1584673132080,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E4%BF%A1%E6%81%AF%E4%BC%A0%E9%80%92_1584673131108.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2103",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/图论-求和_1578049734380.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293714,
+				"upload_time": 1584672999169,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E5%9B%BE%E8%AE%BA%E6%B1%82%E5%92%8C_1584672998397.zip",
+				"score": 100.0
+			}
+		]
+	},
+	{
+		"case_id": "2124",
+		"case_type": "图结构",
+		"case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/反色游戏_1578066842899.zip",
+		"final_score": 100,
+		"upload_records": [
+			{
+				"upload_id": 293707,
+				"upload_time": 1584672808130,
+				"code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4247/49405/%E5%8F%8D%E8%89%B2%E6%B8%B8%E6%88%8F_1584672807352.zip",
+				"score": 100.0
+			}
+		]
+	}
+]

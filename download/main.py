@@ -63,6 +63,46 @@ def download_user(user):
             unzip_record(recordPath)
             os.remove(recordPath)
 
+def download_user_latest(user):
+    userId=str(user["user_id"])
+    cases=user["cases"]
+    print("info || ready to download user ===> " + userId)
+
+    # 创建用户目录
+    try:
+        os.mkdir('ZipDownload/'+userId)
+    except Exception:
+        print('\033[7;31mwarn || 创建用户文件夹失败，可能文件夹已经存在\033[0m')
+
+    #遍历用户的所有题目数据
+    for case in cases:
+        caseId=case["case_id"]
+
+        # 创建题目目录
+        # try:
+        #     os.mkdir('ZipDownload/' + userId +'/' +caseId)
+        # except Exception:
+        #     print('\033[7;31mwarn || 创建题目文件夹失败，可能文件夹已经存在\033[0m')
+
+        # 下载题目zip包
+        basedir='ZipDownload/' + userId+'/'
+        # questionPath = basedir+ "question.zip"
+        # download_one(questionPath,case["case_zip"])
+
+        # 解压并删除题目zip包
+        # unzip_question(questionPath)
+        # os.remove(questionPath)
+
+        # 下载最后一次提交记录
+        record = case["upload_records"][-1]
+        recordPath=basedir+caseId+'.zip'
+
+        # 下载提交记录zip包
+        download_one(recordPath,record["code_url"])
+
+        # 用压缩文件中真正有用的部分替换整个压缩文件
+        unzip_record(recordPath)
+        os.remove(recordPath)
 
 # 下载一个zip包
 def download_one(filePath,url):
@@ -90,7 +130,17 @@ if __name__=="__main__":
 
     #多进程下载
     pool = multiprocessing.Pool(multiprocessing.cpu_count())
-    pool.map(download_user,data.values())
+
+
+    print("input || 请选择下载方式，输入对应数字[default:2]：1-下载所有提交代码 2-仅下载最后一次提交代码")
+    method=int(input())
+    if method==1:
+        print("info || 开始下载全部代码")
+        pool.map(download_user,data.values())
+    else:
+        print("info || 开始下载最后一次提交代码")
+        pool.map(download_user_latest,data.values())
+
     pool.close()
     pool.join()
     print('****************************over****************************')

@@ -9,6 +9,7 @@ __pycache__/
 # downloadResult
 CodeDownload/**
 TestDownload/**
+FullCodeDownload/**
 
 # source
 data/sample.json

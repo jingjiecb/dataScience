@@ -9,7 +9,7 @@ import json
 import multiprocessing
 import os
 from utils.unzip import unzip_question
-from main import download_one
+from utils.download import download_one
 
 def downloadTest(case):
     id=case["case_id"]

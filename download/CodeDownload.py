@@ -10,7 +10,6 @@ import time
 from sys import exit
 from utils.unitFactory import UnitFactory
 from utils.download import downloadCodeUnit
-
 from utils.banner import printBanner
 
 

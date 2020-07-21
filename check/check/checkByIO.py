@@ -14,7 +14,7 @@ cfg.read("config.ini",encoding="UTF-8")
 codeBasePath=cfg.get("path","code_path")
 testBasePath=cfg.get("path","test_path")
 
-simplePuts=["True","False","true","false","1","0","-1","2","-2","3","4","5","6","7","8","9","10","YES","NO","yes","no","Yes","No","TRUE","FALSE"]
+simplePuts=["True","False","true","false","1","0","-1","2","-2","3","YES","NO","yes","no","Yes","No","TRUE","FALSE"]
 
 def check(code, test):
     # 获得测试用例

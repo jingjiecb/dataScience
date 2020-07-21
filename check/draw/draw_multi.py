@@ -14,6 +14,9 @@ import random
 #     },
 #     .....
 # }
+
+RANGE=10
+
 def draw_multi(file_dicts):
     # 1. draw a solid gauge
     gauge = pygal.SolidGauge(half_pie=True, inner_radius=.7)
@@ -35,15 +38,15 @@ def draw_multi(file_dicts):
     types = []
     for question_name in file_dicts.keys():
         file_index_dict = file_dicts[question_name]
-        arg = [0 for x in range(101)]  # 0 ~ 100
+        arg = [0 for x in range(RANGE+1)]  # 0 ~ 100
         for ele in file_index_dict.values():
-            arg[int(ele * 100)] += 1
+            arg[int(ele * RANGE)] += 1
         args.append(tuple(arg))
         types.append(question_name)
 
     pyramid = pygal.Pyramid(human_readable=True, legend_at_bottom=True)
     pyramid.title = "Question Suspected Files Distribution"
-    pyramid.x_labels = map(lambda x: str(x / 100) if x % 10 == 0 else "", range(101))
+    pyramid.x_labels = map(lambda x: str(x / RANGE) if x % 1 == 0 else "", range(RANGE+1))
     for type, arg in zip(types, args):
         pyramid.add(type, arg)
 

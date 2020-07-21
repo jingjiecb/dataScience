@@ -28,7 +28,7 @@ def draw_multi(file_dicts):
                 problem_files_num += 1
         gauge.add(question_name, [{'value': 100 * round(problem_files_num / len(file_index_dict), 2), 'max_value': 100}])
 
-    gauge.render_to_file("../pics/dataGaugeMulti.svg")
+    gauge.render_to_file("./pics/dataGaugeMulti.svg")
 
     # 2. draw a Pyramid
     args = []
@@ -47,7 +47,7 @@ def draw_multi(file_dicts):
     for type, arg in zip(types, args):
         pyramid.add(type, arg)
 
-    pyramid.render_to_file("../pics/dataPyramidMulti.svg")
+    pyramid.render_to_file("./pics/dataPyramidMulti.svg")
 
 
 def random_dict():

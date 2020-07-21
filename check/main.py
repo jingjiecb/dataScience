@@ -19,11 +19,12 @@ def getMultiDict(tests=[]):
         except:
             if test in res.keys():
                 res.pop(test)
+    return res
 
 if __name__=='__main__':
 
     testId = "2209"
-    testList = ["", "", "", "", ""]
+    testList = ["2936", "2618", "2894", "2558", "2461","2425"]
 
     # while True:
     #     res=check(testId)
@@ -32,5 +33,5 @@ if __name__=='__main__':
     #     print(bad_code)
     #     testId = input()
 
-    draw(check(testId),testId)
-    # draw_multi(getMultiDict(testList))
+    # draw(check(testId),testId)
+    print(getMultiDict(testList))
